@@ -1,0 +1,29 @@
+body{
+    background-color: beige;
+}
+table, th, td{
+    border: 2px solid black;
+    /* padding: 10px 10px 10px 10px; */
+    /* border-collapse: collapse; */
+    border-radius: 2px;
+    border-spacing: 10px;
+    /* border-style: dashed; */
+}
+table{
+    width: 100%;
+}
+tr{
+    height: 30px;
+
+}
+th, td{
+    width: 33%;
+    /* background-color: rgb(207, 248, 234); */
+}
+/* tr:nth-child(even){
+    background-color: azure;
+} */
+/* 
+td:nth-child(even){
+    background-color: azure;
+} */
