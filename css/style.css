@@ -1,0 +1,29 @@
+body{
+    background-color: azure;
+}
+
+a:link,a:visited {
+  color: rgb(255, 255, 255);
+  background-color: #eeb8c8;
+  text-decoration: none;
+  padding: 15px 25px;
+  text-align: center;
+  display:inline-block;
+}
+
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+img{
+    width: 100%;
+}
